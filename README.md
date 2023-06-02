@@ -3,9 +3,4 @@ Security Audits is a systematic process for identifying possible security flaws 
 
 Smart Contract:
 
-Decentralized Application:   
-
-
-
-Hypper ledger:
-1. The policy that specifies the set organizations on the channel that need to execute the smart contract is referred to as the endorsement policy.
+Decentralized Application:
