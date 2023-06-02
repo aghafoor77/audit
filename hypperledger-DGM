@@ -1,0 +1,5 @@
+
+Hypper ledger:
+
+. The policy that specifies the set organizations on the channel that need to execute the smart contract is referred to as the endorsement policy.
+. Before a chaincode can be deployed to a channel, the members of the channel need to agree on a chaincode definition that establishes chaincode governance.
